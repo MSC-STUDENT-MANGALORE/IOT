@@ -108,4 +108,5 @@ void displayColor(byte color) {
   digitalWrite(12, !bitRead(color, 1));
   digitalWrite(11, !bitRead(color, 0));
 }
+https://wokwi.com/projects/333806427979121235
 
