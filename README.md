@@ -23,8 +23,8 @@ digitalWrite(7, HIGH);
 }
 
 2) colour RGB
-3) https://wokwi.com/projects/333801225781772882
-4) 
+https://wokwi.com/projects/333801225781772882
+
 int red_light_pin= A5;
 int green_light_pin = A4;
 int blue_light_pin = A3;
